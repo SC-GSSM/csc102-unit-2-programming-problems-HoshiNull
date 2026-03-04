@@ -56,7 +56,7 @@ public class Unit2 {
      */
     public static int getStringLength(String str) {
         // TODO: Implement this method using String.length
-        return 0;
+        return str.length();
     }
 
     /**
