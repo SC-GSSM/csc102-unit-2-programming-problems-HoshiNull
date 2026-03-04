@@ -66,7 +66,7 @@ public class Unit2 {
      */
     public static int roundValue(double value) {
         // TODO: Implement this method using Math.round
-        return 0;
+        return (int)(value+0.5);
     }
 
     /**
