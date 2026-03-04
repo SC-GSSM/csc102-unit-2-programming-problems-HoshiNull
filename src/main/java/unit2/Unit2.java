@@ -100,7 +100,7 @@ public class Unit2 {
      */
     public static String replaceCharacter(String str, char oldChar, char newChar) {
         // TODO: Implement this method using String.replace
-        return null;
+        return str.replace(oldChar,newChar);
     }
 
     /**
