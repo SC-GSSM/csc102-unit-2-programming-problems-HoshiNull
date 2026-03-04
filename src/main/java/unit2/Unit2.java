@@ -25,7 +25,7 @@ public class Unit2 {
      */
     public static double calculateSquareRoot(double number) {
         // TODO: Implement this method using Math.sqrt
-        return 0.0;
+        return Math.sqrt(number);
     }
 
     /**
